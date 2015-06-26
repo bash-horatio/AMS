@@ -2,7 +2,7 @@
 #define AMS_MAIN_H
 
 
-#define AMS_DEBUG   (0)
+#define AMS_DEBUG   (1)
 
 #define AMS_STAT    int
 #define AMS_OK      (0)
